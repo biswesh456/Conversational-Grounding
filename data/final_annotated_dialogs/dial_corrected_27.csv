@@ -1,0 +1,25 @@
+,time,public,user,receiver,DU ID,Grounding Act,Opened CGUs,Closed CGUs,Degree
+0.0,0 days 00:00:00,A: ,A,All,,None
+1.0,0 days 00:00:00,B: ,B,All,,None
+2.0,0 days 00:00:01,GM: ,GM,All,,None
+24.0,0 days 00:00:15,B: hello,B,All,,None
+37.0,0 days 00:00:29,B: I've found a child's room.,B,All,[1],['Initiate'],[1],[],[]
+38.0,0 days 00:00:31,A: i am in a child,A,All,[2],['Initiate'],[2],[],[]
+39.0,0 days 00:00:34,A: 's room too,A,All,"['1*', 2]","['Use', 'Continue']",[],['1*'],['medium']
+40.0,0 days 00:00:42,A: blue comforter and teddy bear?,A,All,[3],['Initiate'],[3],[],[]
+41.0,0 days 00:00:48,"B: There are two beds. with a purplish mattress, and a biege comforter across each",B,All,"[2, 4]","['Use', 'Initiate']",[4],[2],['medium']
+42.0,0 days 00:00:49,B: nope.,B,All,"[3, 5]","['Use', 'Initiate']",[5],[3],['medium']
+43.0,0 days 00:00:57,A: oh i can look for that one,A,All,"[4, 5, 6]","['Use', 'Use', 'Initiate']",[6],"[4, 5]","['medium', 'medium']"
+48.0,0 days 00:01:03,B: okay.,B,All,[6],['Explicit-Ack'],[],[6],['medium']
+57.0,0 days 00:01:14,B: there's also a set of pink and white towels hanging by the foot of the bed,B,All,[7],['Initiate'],[7],[],[]
+106.0,0 days 00:02:01,"B: there's a small white nightstand between them, with a little lamp on it.",B,All,[8],['Continue'],[],[],[]
+115.0,0 days 00:02:14,A: ok i am here,A,All,"[7, 8, 9]","['Use', 'Use', 'Initiate']",[9],"[7, 8]","['medium', 'medium']"
+117.0,0 days 00:02:19,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All,[10],['Initiate'],[10],[],[]
+119.0,0 days 00:02:23,GM: Well done! Both of you are                            indeed in the same room of type: c/childs_room!,GM,All,[11],['Initiate'],[11],[],[]
+120.0,0 days 00:02:23,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All,[12],['Initiate'],[12],[],[]
+121.0,0 days 00:02:24,GM: ,GM,All,,None
+122.0,0 days 00:02:24,GM: Here's your token: 1757G5WWQ,GM,All,[13],['Initiate'],[13],[],[]
+123.0,0 days 00:02:39,B: ,B,All,,None
+125.0,0 days 00:02:47,A: ,A,All,,None
+127.0,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All,[14],['Initiate'],[14],[],[]
+128.0,0 days 02:01:18,GM: ,GM,All,, None

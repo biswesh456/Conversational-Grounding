@@ -1,0 +1,29 @@
+,time,public,user,receiver,['DU ID'],['Grounidng Act'],[],[],[]
+0.0,0 days 00:00:00,A: ,A,All,,None
+1.0,0 days 00:00:00,B: ,B,All,,None
+2.0,0 days 00:00:01,GM: ,GM,All,,None
+26.0,0 days 00:00:15,B: hi,B,All,,None
+31.0,0 days 00:00:26,B: got it :),B,All,[1],['Initiate'],[1],[],[]
+32.0,0 days 00:00:30,"A: He, i'm in a hall",A,All,"[1, 2]","['Move', 'Initiate']",[2],[1],['low']
+33.0,0 days 00:00:31,B: row of black chairs along the back ,B,All,[3],['Initiate'],[3],[],[]
+50.0,0 days 00:01:33,B: where are you now? :) ,B,All,"[2, 4]","['Move', 'Initiate']",[4],[2],['low']
+51.0,0 days 00:01:35,A: I am in a rom with some rolled towels,A,All,"[3, 4, 5]","['Move', 'Use', 'Initiate']",[5],"[3, 4]","['low', 'medium']"
+52.0,0 days 00:01:41,A: two tan and a white on e on top,A,All,[6],['Initiate'],[6],[],[]
+53.0,0 days 00:01:49,B: does it have a jacuzzi? ,B,All,"[5, 7]","['Use', 'Initiate']",[7],[5],['medium']
+54.0,0 days 00:01:53,A: is this the jacuzzi room you are in?,A,All,[8],['Initiate'],[8],[],[]
+55.0,0 days 00:01:58,A: there might be more than one,A,All,"[7, 9]","['Use', 'Initiate']",[9],[7],['medium']
+56.0,0 days 00:02:03,B: no there are no towels here,B,All,"[6, 9, 10]","['Move', 'Move', 'Initiate']",[10],"[6, 9]","['low', 'low']"
+57.0,0 days 00:02:06,B: shall I come and find you? ,B,All,[11],['Initiate'],[11],[],[]
+58.0,0 days 00:02:15,A: some orange or red candles,A,All,"[10, 12]","['Move', 'Initiate']",[12],[10],['low']
+59.0,0 days 00:02:19,"A: sure, come find me",A,All,[11],['Use'],[],[11],['medium']
+60.0,0 days 00:02:23,B: naw not the one I am in .. .stay put :) ,B,All,"[12, 13]","['Use', 'Initiate']",[13],[12],['medium']
+73.0,0 days 00:02:36,B: ah right got it I think ,B,All,[14],['Initiate'],[14],[],[]
+75.0,0 days 00:02:41,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'",GM,All,[15],['Initiate'],[15],[],[]
+77.0,0 days 00:02:49,GM: Well done! Both of you are                            indeed in the same room of type: j/jacuzzi/indoor!,GM,All,[16],['Initiate'],[16],[],[]
+78.0,0 days 00:02:49,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All,[17],['Initiate'],[17],[],[]
+79.0,0 days 00:02:49,GM: ,GM,All,,None
+80.0,0 days 00:02:50,GM: Here's your token: 1681H3R6F,GM,All,[18],['Initiate'],[18],[],[]
+81.0,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM,All,[19],['Initiate'],[19],[],[]
+82.0,0 days 00:03:07,B: ,B,All,,None
+84.0,0 days 00:20:22,A: ,A,All,,None
+86.0,0 days 02:03:12,GM: ,GM,All,,None
