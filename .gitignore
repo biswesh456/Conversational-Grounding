@@ -1,0 +1,13 @@
+*/.DS_Store
+*.aux
+*.bbl
+*.blg
+*.rel
+*.out
+*synctex.gz
+*.pyc
+*ipynb_checkpoints*
+ADE20K_2021_17_01/
+ADE20K_2021_17_01.zip
+data/annotated_dialogs/
+*.DS_Store
